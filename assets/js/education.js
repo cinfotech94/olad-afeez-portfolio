@@ -10,6 +10,21 @@ const moocscards = [
     cardImage: "assets/images/education-page/udemy.svg",
     moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
   },
+    {
+    title: "c#",
+    cardImage: "assets/images/education-page/udemy.svg",
+    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+  },
+      {
+    title: "entity framework",
+    cardImage: "assets/images/education-page/udemy.svg",
+    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+  },
+      {
+    title: "software engineering",
+    cardImage: "assets/images/education-page/udemy.svg",
+    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+  },
   {
   title: "Full-stack Deveoper",
     cardImage: "assets/images/education-page/coursera2.svg",
